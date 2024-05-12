@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:29-4-2024M
+## Date:29-4-2024
 
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
@@ -395,6 +395,8 @@ contact.html
 ![image](https://github.com/rohanjeyachandran/Pharma/assets/169586172/e26efbf1-2a61-4281-b9c0-4cd88d671be0)
 ![image](https://github.com/rohanjeyachandran/Pharma/assets/169586172/09bc91c3-87a4-449a-af71-819458347755)
 ![image](https://github.com/rohanjeyachandran/Pharma/assets/169586172/9e820e4f-f5d5-455e-bb4c-7ef05425bda5)
+![image](https://github.com/rohanjeyachandran/Pharma/assets/169586172/508f35b9-cabd-4af4-9dcd-5874229e5690)
+
 
 
 
